@@ -1,0 +1,166 @@
+[
+  {
+    "title": "‘PTN’ infosec monthly #9 — InfoSec Updates",
+    "description": "<div class=\"medium-feed-item\"><p class=\"medium-feed-link\"><a href=\"https://medium.com/pentesternepal/ptn-infosec-monthly-9-infosec-updates-54d836457bab?source=rss------pentesternepal-5\">Continue reading on Pentester Nepal »</a></p></div>",
+    "link": "https://medium.com/pentesternepal/ptn-infosec-monthly-9-infosec-updates-54d836457bab?source=rss------pentesternepal-5",
+    "author": "Bishal Shrestha",
+    "published": 1677687195000,
+    "created": 1677687195000,
+    "category": [
+      "bugbounty-writeup",
+      "pentesternepal",
+      "newsletter",
+      "cybersecurity",
+      "infosec"
+    ],
+    "enclosures": [],
+    "media": {}
+  },
+  {
+    "title": "‘PTN’ infosec monthly #8 —  InfoSec Updates",
+    "description": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Namaste everyone,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/pentesternepal/ptn-infosec-monthly-9-infosec-updates-abd21eb7a3ee?source=rss------pentesternepal-5\">Continue reading on Pentester Nepal »</a></p></div>",
+    "link": "https://medium.com/pentesternepal/ptn-infosec-monthly-9-infosec-updates-abd21eb7a3ee?source=rss------pentesternepal-5",
+    "author": "Bishal Shrestha",
+    "published": 1675090403000,
+    "created": 1675090403000,
+    "category": [
+      "infosec-newsletter",
+      "bug-bounty",
+      "pentesternepal",
+      "infosec",
+      "cybersecurity"
+    ],
+    "enclosures": [],
+    "media": {}
+  },
+  {
+    "title": "‘PTN’ infosec monthly #7 — InfoSec Updates",
+    "description": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/pentesternepal/ptn-infosec-monthly-7-infosec-updates-628a7f83cdd2?source=rss------pentesternepal-5\"><img src=\"https://cdn-images-1.medium.com/max/828/1*9JjQB3tInM4SjTOfDfYm1w.jpeg\" width=\"828\"></a></p><p class=\"medium-feed-snippet\">Namaste everyone,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/pentesternepal/ptn-infosec-monthly-7-infosec-updates-628a7f83cdd2?source=rss------pentesternepal-5\">Continue reading on Pentester Nepal »</a></p></div>",
+    "link": "https://medium.com/pentesternepal/ptn-infosec-monthly-7-infosec-updates-628a7f83cdd2?source=rss------pentesternepal-5",
+    "author": "Bishal Shrestha",
+    "published": 1672484658000,
+    "created": 1672484658000,
+    "category": [
+      "infosec",
+      "pentesternepal",
+      "bug-bounty",
+      "cybersecurity",
+      "newsletter"
+    ],
+    "enclosures": [],
+    "media": {}
+  },
+  {
+    "title": "‘PTN’ infosec monthly #6 — InfoSec Updates",
+    "description": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/pentesternepal/ptn-infosec-monthly-6-infosec-updates-d849c7fa0b12?source=rss------pentesternepal-5\"><img src=\"https://cdn-images-1.medium.com/max/2048/1*InJid1383jFNsgUMkidbyA.jpeg\" width=\"2048\"></a></p><p class=\"medium-feed-snippet\">Namaste everyone,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/pentesternepal/ptn-infosec-monthly-6-infosec-updates-d849c7fa0b12?source=rss------pentesternepal-5\">Continue reading on Pentester Nepal »</a></p></div>",
+    "link": "https://medium.com/pentesternepal/ptn-infosec-monthly-6-infosec-updates-d849c7fa0b12?source=rss------pentesternepal-5",
+    "author": "Bishal Shrestha",
+    "published": 1669829825000,
+    "created": 1669829825000,
+    "category": [
+      "pentesternepal",
+      "bug-bounty",
+      "cybersecurity",
+      "infosec",
+      "newsletter"
+    ],
+    "enclosures": [],
+    "media": {}
+  },
+  {
+    "title": "Interesting Stored XSS via meta data",
+    "description": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/pentesternepal/interesting-stored-xss-via-meta-data-eb8fe1de8b33?source=rss------pentesternepal-5\"><img src=\"https://cdn-images-1.medium.com/max/1482/1*QO8GNfI8YRh6rvtGZX8OaA.png\" width=\"1482\"></a></p><p class=\"medium-feed-snippet\">Back in February of this year Bibek Neupane and I had hacked on a private bug bounty program on Hackerone, we had chosen one of the social&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/pentesternepal/interesting-stored-xss-via-meta-data-eb8fe1de8b33?source=rss------pentesternepal-5\">Continue reading on Pentester Nepal »</a></p></div>",
+    "link": "https://medium.com/pentesternepal/interesting-stored-xss-via-meta-data-eb8fe1de8b33?source=rss------pentesternepal-5",
+    "author": "Veshraj Ghimire",
+    "published": 1669140853000,
+    "created": 1669140853000,
+    "category": ["infosec", "bug-bounty", "pentesternepal", "xss-attack"],
+    "enclosures": [],
+    "media": {}
+  },
+  {
+    "title": "‘PTN’ infosec monthly #4 — InfoSec Updates",
+    "description": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/pentesternepal/ptn-infosec-monthly-4-infosec-updates-abb3f89d6014?source=rss------pentesternepal-5\"><img src=\"https://cdn-images-1.medium.com/max/2048/1*rzgrgbMxVkY2KOsEgW-LZg.jpeg\" width=\"2048\"></a></p><p class=\"medium-feed-snippet\">Namaste everyone,\nWelcome to &#x2018;PTN&#x2019; infosec monthly #4. We are back with the fourth newsletter with infosec updates. We started &#x2018;PTN&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/pentesternepal/ptn-infosec-monthly-4-infosec-updates-abb3f89d6014?source=rss------pentesternepal-5\">Continue reading on Pentester Nepal »</a></p></div>",
+    "link": "https://medium.com/pentesternepal/ptn-infosec-monthly-4-infosec-updates-abb3f89d6014?source=rss------pentesternepal-5",
+    "author": "Bishal Shrestha",
+    "published": 1664551693000,
+    "created": 1664551693000,
+    "category": [
+      "pentesternepal",
+      "bugbounty-writeup",
+      "infosec",
+      "ptn",
+      "cybersecurity"
+    ],
+    "enclosures": [],
+    "media": {}
+  },
+  {
+    "title": "‘PTN’ infosec monthly #3— InfoSec Updates",
+    "description": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Namaste everyone,\nWelcome to &#x2018;PTN&#x2019; infosec monthly #3. We are back with the third newsletter with infosec updates. We started &#x2018;PTN infosec&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/pentesternepal/ptn-infosec-monthly-3-infosec-updates-c28273328f78?source=rss------pentesternepal-5\">Continue reading on Pentester Nepal »</a></p></div>",
+    "link": "https://medium.com/pentesternepal/ptn-infosec-monthly-3-infosec-updates-c28273328f78?source=rss------pentesternepal-5",
+    "author": "Bishal Shrestha",
+    "published": 1661959180000,
+    "created": 1661959180000,
+    "category": [
+      "ptnnewsletter",
+      "pentesternepal",
+      "infosec",
+      "newsletter",
+      "bug-bounty"
+    ],
+    "enclosures": [],
+    "media": {}
+  },
+  {
+    "title": "‘PTN’ infosec monthly #2 — InfoSec Updates",
+    "description": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/pentesternepal/ptn-infosec-monthly-2-infosec-updates-6ba5941a3df1?source=rss------pentesternepal-5\"><img src=\"https://cdn-images-1.medium.com/max/1536/1*JO9vctT_Ewr6pW0vPwouiA.jpeg\" width=\"1536\"></a></p><p class=\"medium-feed-snippet\">Namaste everyone,\nWelcome to our &#x2018;PTN&#x2019; infosec monthly #2 and we are back with the second newsletter with PTN Anniversary special updates&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/pentesternepal/ptn-infosec-monthly-2-infosec-updates-6ba5941a3df1?source=rss------pentesternepal-5\">Continue reading on Pentester Nepal »</a></p></div>",
+    "link": "https://medium.com/pentesternepal/ptn-infosec-monthly-2-infosec-updates-6ba5941a3df1?source=rss------pentesternepal-5",
+    "author": "Bishal Shrestha",
+    "published": 1659357558000,
+    "created": 1659357558000,
+    "category": [
+      "pentesternepal",
+      "anniversary",
+      "infosec",
+      "bug-bounty",
+      "ptn"
+    ],
+    "enclosures": [],
+    "media": {}
+  },
+  {
+    "title": "2FA: A guarantee of complete safety?",
+    "description": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/pentesternepal/2fa-a-guarantee-of-complete-safety-936732a6393e?source=rss------pentesternepal-5\"><img src=\"https://cdn-images-1.medium.com/max/1000/0*gbdxJkhNYKHkUNg9.jpg\" width=\"1000\"></a></p><p class=\"medium-feed-snippet\">Hi there, hope you are doing well on your side of screen. I am back with small social awareness blog regarding some misconceptions of 2&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/pentesternepal/2fa-a-guarantee-of-complete-safety-936732a6393e?source=rss------pentesternepal-5\">Continue reading on Pentester Nepal »</a></p></div>",
+    "link": "https://medium.com/pentesternepal/2fa-a-guarantee-of-complete-safety-936732a6393e?source=rss------pentesternepal-5",
+    "author": "Veshraj Ghimire",
+    "published": 1657502853000,
+    "created": 1657502853000,
+    "category": [
+      "pentesternepal",
+      "social-awareness",
+      "2fa-authentication",
+      "phising",
+      "2fa-bypass"
+    ],
+    "enclosures": [],
+    "media": {}
+  },
+  {
+    "title": "‘PTN’ infosec monthly #1 — InfoSec Updates",
+    "description": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/pentesternepal/ptn-infosec-monthly-1-infosec-updates-ab828b09fb44?source=rss------pentesternepal-5\"><img src=\"https://cdn-images-1.medium.com/max/2048/1*5bgQo2ye0xtqLL-FHbTp1A.jpeg\" width=\"2048\"></a></p><p class=\"medium-feed-snippet\">Namaste everyone,\nWelcome to our &#x2018;PTN&#x2019; infosec monthly #1 and first newsletter. We are starting our &#x2018;PTN infosec monthly&#x2019; newsletter&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/pentesternepal/ptn-infosec-monthly-1-infosec-updates-ab828b09fb44?source=rss------pentesternepal-5\">Continue reading on Pentester Nepal »</a></p></div>",
+    "link": "https://medium.com/pentesternepal/ptn-infosec-monthly-1-infosec-updates-ab828b09fb44?source=rss------pentesternepal-5",
+    "author": "Bishal Shrestha",
+    "published": 1656609486000,
+    "created": 1656609486000,
+    "category": [
+      "monthly",
+      "bug-bounty",
+      "infosec",
+      "ptninfosec",
+      "pentesternepal"
+    ],
+    "enclosures": [],
+    "media": {}
+  }
+]
